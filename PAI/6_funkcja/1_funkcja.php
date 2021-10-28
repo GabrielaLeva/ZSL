@@ -8,6 +8,7 @@
             <h3>Dane użytkownika<h3>
                 <form action="./scripts/script.php" method="POST">
                     <input type="text" name="name" placeholder="podaj imie">
+                    <input type="text" name="kolor" placeholder="podaj kolor">
                     <input type="submit" value="zatwierdź">
                 </form>
         </body>
